@@ -25,7 +25,7 @@ public class CheckInventory implements CheckHandler {
 		HashMap<String, Item> dbitems = i1.items;
 //		HashMap<String,Integer> a
 		ReadInput r1 = new ReadInput();
-		r1.readFile("Input2 - Sheet1.csv");
+		r1.readFile("Input3 - Sheet1.csv");
 		List<List<String>> given = r1.inputList;
 //		for(List<String> item:given) {
 //			System.out.println(item);
