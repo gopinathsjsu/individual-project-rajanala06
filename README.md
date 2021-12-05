@@ -5,3 +5,4 @@ individual-project-rajanala06 created by GitHub Classroom
 ```
 mvn clean install
 ```
+Please check the CheckInventory.java for updation of Input File names.
